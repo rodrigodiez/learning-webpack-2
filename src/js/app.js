@@ -1,1 +1,4 @@
-alert('hello world');
+$(document).ready(function() {
+
+  alert('hello world');
+});

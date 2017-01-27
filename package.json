@@ -19,8 +19,13 @@
   },
   "homepage": "https://github.com/rodrigodiez/learning-webpack-2#readme",
   "devDependencies": {
+    "@types/jquery": "^2.0.39",
+    "clean-webpack-plugin": "^0.1.15",
     "html-webpack-plugin": "^2.26.0",
     "jquery": "^3.1.1",
     "webpack": "^2.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
   }
 }
