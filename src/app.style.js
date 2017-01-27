@@ -1,1 +1,1 @@
-import bootstrap from 'bootstrap/dist/css/bootstrap.css'
+import bootstrapStyle from 'bootstrap/scss/bootstrap.scss'
