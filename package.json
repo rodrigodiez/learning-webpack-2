@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rodrigodiez/learning-webpack-2#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^2.26.0",
     "jquery": "^3.1.1",
     "webpack": "^2.2.0"
   }
