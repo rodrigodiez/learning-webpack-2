@@ -1,0 +1,37 @@
+{
+  "name": "learning-webpack-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config mywebpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigodiez/learning-webpack-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigodiez/learning-webpack-2/issues"
+  },
+  "homepage": "https://github.com/rodrigodiez/learning-webpack-2#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.39",
+    "clean-webpack-plugin": "^0.1.15",
+    "css-loader": "^0.26.1",
+    "html-webpack-plugin": "^2.26.0",
+    "jquery": "^3.1.1",
+    "node-sass": "^4.3.0",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.1.1",
+    "tether": "^1.4.0"
+  }
+}
