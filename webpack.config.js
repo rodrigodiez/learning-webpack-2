@@ -16,7 +16,8 @@ module.exports = {
       new webpack.ProvidePlugin({
             jQuery: 'jquery',
             $: 'jquery',
-            jquery: 'jquery'
+            jquery: 'jquery',
+            Tether: 'tether'
         }),
       new CleanWebpackPlugin(['dist'], {
             verbose: true,
